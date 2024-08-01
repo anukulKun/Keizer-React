@@ -2,7 +2,7 @@ import React from 'react'
 
 function navbar() {
   return (
-    <div className="text-white w-full items-center z-20 fixed flex flex-row bg-transparent pt-9 px-24">
+    <div className="text-white w-full items-center z-50 fixed flex flex-row bg-transparent pt-9 px-24">
           <div className='Logo w-[30%]'> Logo</div>
           <div className="flex flex-row gap-14 ml-auto w-[30%] text-white/85 ">
             <a className='hover:text-white' href="">Home</a>
